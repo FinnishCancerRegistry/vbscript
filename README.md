@@ -1,5 +1,9 @@
 # vbscript
 
+<!-- badges: start -->
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/WetRobot/vbscript?branch=master&svg=true)](https://ci.appveyor.com/project/WetRobot/vbscript)
+<!-- badges: end -->
+
 Enables easy calling of vbscript files from R.
 This package can be used to automatically interact with GUIs in Windows
 when there is no other choice.
