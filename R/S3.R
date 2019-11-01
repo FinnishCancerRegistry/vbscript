@@ -34,8 +34,9 @@ as.vbscript_lines.character <- function(x) {
 #'
 #' maximum number of lines allowed to be printed; if `x` has more elements
 #' than this, only the fist 10 and last 10 elements are shown in print
+#' @param ... added for compatibility with [print]
 #' @export
-print.vbscript_lines <- function(x, max.print = 50) {
+print.vbscript_lines <- function(x, max.print = 50, ...) {
   n_lines <- length(x)
   stopifnot(
     length(max.print) == 1,

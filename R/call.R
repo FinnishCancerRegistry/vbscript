@@ -118,7 +118,7 @@ call_vbscript_lines <- function(x) {
       file.remove(tf)
     }
   })
-  write_vbscript_file(x, file = tf)
+  write_vbscript_file(x, file_path = tf)
   call_vbscript_file(tf)
 }
 

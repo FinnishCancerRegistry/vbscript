@@ -4,7 +4,7 @@
 \alias{print.vbscript_lines}
 \title{Print \code{vbscript_lines}}
 \usage{
-\method{print}{vbscript_lines}(x, max.print = 50)
+\method{print}{vbscript_lines}(x, max.print = 50, ...)
 }
 \arguments{
 \item{x}{\code{[vbscript_lines]} (mandatory, no default)
@@ -15,6 +15,8 @@ a \code{vbscript_lines} object}
 
 maximum number of lines allowed to be printed; if \code{x} has more elements
 than this, only the fist 10 and last 10 elements are shown in print}
+
+\item{...}{added for compatibility with \link{print}}
 }
 \description{
 Print method for \code{vbscript_lines} objects
