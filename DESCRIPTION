@@ -1,0 +1,17 @@
+Package: vbscript
+Title: Create and Call vbscript Files from R
+Version: 0.1.0
+Authors@R: 
+    person(given = "Joonas",
+           family = "Miettinen",
+           role = c("aut", "cre"),
+           email = "joonas.miettinen@cancer.fi",
+           comment = c(ORCID = "0000-0001-8624-6754"))
+Description: Enables easy and safe calling of vbscript files from R.
+    This package can be used to automatically interact with GUIs in Windows
+    when there is no other choice.
+License: LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
