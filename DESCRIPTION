@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "joonas.miettinen@cancer.fi",
            comment = c(ORCID = "0000-0001-8624-6754"))
-Description: Enables easy and safe calling of vbscript files from R.
+Description: Enables easy calling of vbscript files from R.
     This package can be used to automatically interact with GUIs in Windows
     when there is no other choice.
 License: LICENSE

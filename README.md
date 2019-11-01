@@ -1,6 +1,6 @@
 # vbscript
 
-Enables easy and safe calling of vbscript files from R.
+Enables easy calling of vbscript files from R.
 This package can be used to automatically interact with GUIs in Windows
 when there is no other choice.
 
