@@ -17,8 +17,6 @@ RoxygenNote: 6.1.1
 Roxygen: list(markdown = TRUE)
 Suggests: 
     testthat
-Encoding: UTF-8
-LazyData: true
 ByteCompile: true
 URL: https://github.com/WetRobot/vbscript
 BugReports: https://github.com/WetRobot/vbscript/issues
