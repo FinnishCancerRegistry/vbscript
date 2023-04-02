@@ -1,7 +1,6 @@
 # vbscript
 
 <!-- badges: start -->
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/WetRobot/vbscript?branch=master&svg=true)](https://ci.appveyor.com/project/WetRobot/vbscript)
 [![R-CMD-check](https://github.com/FinnishCancerRegistry/vbscript/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/FinnishCancerRegistry/vbscript/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
